@@ -1,4 +1,4 @@
-🚀 Sri Sowmya's Portfolio
+🚀 Portfolio
 Welcome to my portfolio! This repository is a showcase of my web development journey, featuring projects that demonstrate my expertise in HTML, CSS, JavaScript, and more. From responsive layouts to interactive designs with animations, my work reflects my passion for creating user-friendly and visually stunning web solutions. Dive in to explore my projects and see what I can build!
 🌟 About Me
 I’m a dedicated front-end web developer with a knack for crafting engaging and functional web experiences. My projects highlight my skills in responsive design, CSS Grid, and JavaScript interactivity, with a focus on clean code and creative problem-solving. I’m constantly learning and experimenting with new techniques to push the boundaries of web development. My goal is to build innovative solutions that make a difference.

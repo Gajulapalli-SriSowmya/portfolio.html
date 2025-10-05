@@ -52,7 +52,7 @@ Git installed on your machine.
 Steps
 
 view live of my portfolio here:
-https://1drv.ms/u/c/22f26411979677ca/EQYxHLG2yCtGs7oKo0ToiK8BOj78HDlKxBPJct5LQMcxNA?e=6DTdsa  
+https://1drv.ms/u/c/22f26411979677ca/EQYxHLG2yCtGs7oKo0ToiK8BOj78HDlKxBPJct5LQMcxNA?e=6DTdsa 
 
 
 

@@ -43,6 +43,36 @@ Prerequisites
 
 A web browser (e.g., Chrome, Firefox).
 Git installed on your machine.
+A web browser (e.g., Chrome, Firefox).
+
+
+
+Git installed on your machine.
+
+Steps
+
+
+
+
+
+Clone the repository:
+
+git clone https://github.com/Gajulapalli-SriSowmya/activity.git
+
+
+
+Navigate to the project folder:
+
+cd activity
+
+
+
+Open any .html file in a web browser to view the project.
+
+
+
+Check the GitHub links for source code or the "See the Project" links for live demos hosted on OneDrive.
+
 
 .
 
